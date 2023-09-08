@@ -16,7 +16,7 @@
     line-height: 90px;
     letter-spacing: 0em;
     text-align: left;
-    text-shadow: 1px 7px 5px #000000;
+    text-shadow: 1px 7px 5px #b7b7b7;
 
 }
 
@@ -24,11 +24,13 @@
 .paragraft{
     font-family: 'Epilogue', sans-serif;
     font-size: 17px;
-    font-weight: 600;
+    font-weight: 700;
     line-height: 27px;
     letter-spacing: 0em;
     text-align: justify;
-    text-shadow: 1px 2px 2px #000000;
+    text-shadow: 1px 3px 4px #2c2c2c;
+    border-color: rgba(45, 45, 45, 1);
+    color: rgba(0, 0, 0, 1);
 }
 
 
