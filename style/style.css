@@ -1,5 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Epilogue:wght@400;600;700&family=Heebo:wght@500&display=swap');
 
+.logo{
+    width: 118px;
+    height: 62px;
+    top: 31px;
+    left: 27px;
+
+}
+
 
 .title{
     font-family: 'Epilogue', sans-serif;
@@ -8,7 +16,7 @@
     line-height: 90px;
     letter-spacing: 0em;
     text-align: left;
-    text-shadow: 1px 4px 4px #000000;
+    text-shadow: 1px 7px 5px #000000;
 
 }
 
@@ -20,12 +28,7 @@
     line-height: 27px;
     letter-spacing: 0em;
     text-align: justify;
-    text-shadow: 1px 1px 3px #000000;
-}
-
-
-.picture{
-    text-align: center;
+    text-shadow: 1px 2px 2px #000000;
 }
 
 
@@ -38,29 +41,75 @@
     line-height: 29px;
     letter-spacing: 0px;
     text-align: center;
-    
     width: 208px;
     height: 47px;
     top: 476px;
     border-radius: 2px;
     margin-top: 30px;
+    border-radius: 6px;
 }
 
 
-.paragraft-1{
+.picture{
+    width: Fixed (305px);
+    height: Fixed (307px);
+    top: 169px;
+    left: 818px;
+    gap: 12px;
+
+}
+
+
+.name{
     font-family: 'Epilogue', sans-serif;
     font-size: 17px;
     font-weight: 700;
     line-height: 27px;
     text-align: center;
+    text-decoration: underline;
 }
 
 
-.paragraft-2{
+.work{
     font-family: 'Epilogue', sans-serif;
     font-size: 17px;
     font-weight: 400;
     text-align: center;
 }
+
+
+.sosmed{
+    gap: 35px;
+    margin: 10px;
+}
+
+.f{
+    width: 30px;
+    height: 30px;
+    top: 556px;
+    left: 856px;
+}
+
+.t{
+    width: 30.9375px;
+    height: 30.9375px;
+    top: 1.03125px;
+    left: 1.03125px;
+}
+
+.ig{
+    width: 30.025047302246094px;
+    height: 30.722591400146484px;
+    left: 0.574951171875px;
+}
+
+.l{
+    width: 33px;
+    height: 33px;
+    top: 33px;
+    left: 33px;
+}
+
+
 
 
